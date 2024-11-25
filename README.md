@@ -1,21 +1,8 @@
 # Amazon EventBridge
 
-**Gabriel da Silva Pereira**  
-**Cintia Mariana Carvalho de Oliveira**  
-
-**
-**Curso de Sistemas de Informação**  
-**Pouso Alegre – MG, 2024**
-
----
-
 
 
 ## O que é?
-
-O 
-
-O
 
 
 **Amazon EventBridge** é uma evolução do **Amazon CloudWatch Events**, com maior flexibilidade e suporte para eventos personalizados de aplicativos de terceiros e serviços SaaS (Software as a Service). Ele captura, roteia e entrega eventos para diferentes destinos, como funções AWS Lambda, filas SQS e mais.
